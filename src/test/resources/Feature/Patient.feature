@@ -26,4 +26,4 @@ Feature: Patient
     Examples: 
       | username | password | language         | fname | lname | dob        | gender | alert_text | expected_patient_name                 |
       | admin    | pass     | English (Indian) | John1 | Wick  | 2022-08-30 | Male   | Assessment | Medical Record Dashboard - John1 Wick |
-      | admin    | pass     | English (Indian) | John2 | Wick  | 2022-08-29 | Male   | Assessment | Medical Record Dashboard - John2 Wick |
+      #| admin    | pass     | English (Indian) | John2 | Wick  | 2022-08-29 | Male   | Assessment | Medical Record Dashboard - John2 Wick |
